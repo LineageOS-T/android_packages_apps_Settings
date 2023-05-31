@@ -64,4 +64,10 @@
     <!-- Cache cleaner -->
     <string name="cache_cleaner_title">Cache Cleaner</string>
     <string name="cache_cleaner_summary">Enable the cache cleaner service to automatically clear app caches.</string>
+
+    <!-- Hide developer status -->
+    <string name="hide_developer_status_title">Shielded apps</string>
+    <string name="hide_developer_status_summary">Deny apps to access developer options</string>
+    <string name="search">Search</string>
+    <string name="search_apps">@string/search</string>
 </resources>
