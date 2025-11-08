@@ -23,6 +23,12 @@
         android:key="debug_misc_category"
         android:order="100">
 
+	<Preference
+            android:key="spoofing"
+            android:title="@string/spoofing_title"
+            android:summary="@string/spoofing_summary"
+            android:fragment="com.android.settings.lineage.fragments.Spoof" />
+
         <Preference
             android:key="memory"
             android:title="@string/memory_settings_title"
